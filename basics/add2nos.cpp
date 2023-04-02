@@ -7,7 +7,7 @@ int main()
     cout<<"Enter 2 numbers : ";
     cin>>a>>b;
     c = a+b;
-    cout<<"Answer is "<<c;
+    cout<<"Answer is : "<<c;
 
     return 0;
 }
